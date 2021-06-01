@@ -11,3 +11,5 @@ d= a + b
 
 print(c)
 print(d)
+
+print("hello kenya")
