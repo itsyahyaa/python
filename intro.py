@@ -20,3 +20,6 @@ print(x1)
 
 y = input("Enter your name:?")
 print(y)
+
+for i in range(6):
+    print("yahya");
