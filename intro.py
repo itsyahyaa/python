@@ -17,3 +17,6 @@ print("hello kenya")
 # operation in number
 x1 = 6+6*4
 print(x1)
+
+y = input("Enter your name:?")
+print(y)
