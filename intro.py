@@ -4,6 +4,7 @@ x= "yahya"
 print(a)
 print(7)
 print(7)
+print(7)
 print(x)
 # number
 b = 6
